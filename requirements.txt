@@ -1,0 +1,12 @@
+pip install speechrecognition
+pip install pyttsx3
+pip install wikipedia-api
+pip install dnspython
+pip install urllib3
+pip install ecapture
+pip install wolframalpha
+pip install requests
+pip install argparse
+pip install phonenumbers
+pip install opencage
+pip install appopener
