@@ -4,7 +4,6 @@ import datetime
 import wikipedia
 import webbrowser
 import os
-# import nmap
 import socket
 import dns.resolver
 from urllib.parse import urlparse
